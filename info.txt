@@ -1,0 +1,24 @@
+1.chocolate cake
+2.non chocolate cake
+3.cup cake
+
+
+payment method
+0=advance payment
+1=cash on delivery or pickup
+
+user type
+1=admin
+2=user
+
+user status
+0=disables
+1=unverified
+2=varified
+
+
+
+order status
+0=new
+1=aprooved_pending
+2=aprooved_delivered
